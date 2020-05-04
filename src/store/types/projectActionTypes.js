@@ -1,0 +1,7 @@
+export const SAVE_VALUES = 'SAVE_VALdgfhjcg';
+export const SHOW_VALUES = 'SHOW_VALUES';
+export const DELETE_RECORD = 'DELETE_RECORD';
+export const UPDATE_LAST_RECORD = 'UPDATE_LAST_VALUE';
+export const UPDATING_START = 'START_UPDATING';
+export const UPDATING_COMPLETE = 'UPDATING_COMPLETE';
+export const GET_LAST_VALUE = 'GET_LAST_VALUE';
